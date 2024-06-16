@@ -5,7 +5,7 @@ function Sidebar() {
     <div class="sidebar pe-4 pb-3">
             <nav class="navbar bg-secondary navbar-dark">
                 <a href="index.html" class="navbar-brand mx-4 mb-3">
-                    <h5 class="text-primary">RETURN VEHICLE</h5>
+                    <h4 class="text-primary">RETURN VEHICLE</h4>
                 </a>
                 <div class="d-flex align-items-center ms-4 mb-4">
                     {/* <div class="position-relative">
@@ -16,7 +16,7 @@ function Sidebar() {
                         <h6 class="mb-0">Jhon Doe</h6>
                         <span>TRUCK</span>
                     </div> */}
-                    <h3>DASHBOARD</h3>
+                    <h5>DASHBOARD</h5>
                 </div>
                 <div class="navbar-nav w-100">
                     <a href="truckview" class="nav-item nav-link"><i class="fa fa-truck me-2"></i>TRUCK DETAILS</a>
